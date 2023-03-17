@@ -1,0 +1,8 @@
+$-0 empty
+$-1 standard bow
+$-2 dash
+$-3 potion of healling
+$-4 bow of desert enchant 
+$-5 carl emblem
+$-6 jump
+$-7 forest gem
